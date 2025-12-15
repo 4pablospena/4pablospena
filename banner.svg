@@ -1,0 +1,32 @@
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text-style {
+      font-family: 'Arial Black', 'Impact', sans-serif;
+      fill: #FFE81F; 
+      stroke: #000;
+      stroke-width: 2px;
+      font-size: 32px;
+      font-weight: 900;
+      text-anchor: middle;
+      text-transform: uppercase;
+      opacity: 0;
+      filter: drop-shadow(4px 4px 0px #000);
+    }
+
+    @keyframes slideUpFade {
+      0% { opacity: 0; transform: translateY(30px); }
+      10% { opacity: 1; transform: translateY(0px); }
+      30% { opacity: 1; transform: translateY(0px); }
+      40% { opacity: 0; transform: translateY(-30px); }
+      100% { opacity: 0; transform: translateY(-30px); }
+    }
+
+    .line1 { animation: slideUpFade 9s infinite 0s; }
+    .line2 { animation: slideUpFade 9s infinite 3s; }
+    .line3 { animation: slideUpFade 9s infinite 6s; }
+  </style>
+
+  <text x="50%" y="65" class="text-style line1">HELLO THERE!</text>
+  <text x="50%" y="65" class="text-style line2">MY NAME IS PABLO!</text>
+  <text x="50%" y="65" class="text-style line3">WELCOME TO MY PROFILE!</text>
+</svg>
