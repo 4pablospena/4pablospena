@@ -10,32 +10,25 @@
       <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
   <rect width="1200" height="280" fill="#0d1117"/>
   <rect width="1200" height="280" fill="url(#dots)" opacity="0.55"/>
-
   <rect x="0" y="0" width="1200" height="1" fill="#8B5CF6" opacity="0.85"/>
   <rect x="0" y="279" width="1200" height="1" fill="#21262d"/>
-
   <g stroke="#8B5CF6" stroke-width="1.5" fill="none" opacity="0.9">
     <path d="M28 52 V28 H52"/>
     <path d="M1172 52 V28 H1148"/>
     <path d="M28 228 V252 H52"/>
     <path d="M1172 228 V252 H1148"/>
   </g>
-
   <rect x="56" y="78" width="3" height="124" fill="#8B5CF6" rx="1"/>
-
   <text x="76" y="108" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="44" font-weight="700" fill="#f0f6fc" letter-spacing="-1">Pablo Su&#225;rez</text>
   <text x="76" y="138" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#A78BFA" letter-spacing="3.2">PRODUCT ENGINEER</text>
-
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">
     <text x="76" y="178" fill="#8b949e">BASE</text>
     <text x="140" y="178" fill="#e6edf3">Oviedo, Asturias</text>
     <text x="76" y="200" fill="#8b949e">NOW</text>
     <text x="140" y="200" fill="#e6edf3">Agentic action control</text>
   </g>
-
   <g transform="translate(800, 40)" fill="none" stroke-linecap="round">
     <circle cx="150" cy="100" r="70" fill="url(#nodeGlow)"/>
     <g stroke="#484f58" stroke-width="1.4">
