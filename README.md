@@ -24,10 +24,6 @@ Cojo un problema de usuario, lo convierto en producto o lo agentizo.
   <a href="https://github.com/4pablospena/personal-web"><img src="./assets/projects/web.svg" alt="personal-web" width="48%" /></a>
 </p>
 
-<p align="center">
-  <sub><a href="https://github.com/4pablospena/facturas-excel-pdf">facturas-excel-pdf</a> · Excel to PDF · Python</sub>
-</p>
-
 <br/>
 
 <p align="center">
