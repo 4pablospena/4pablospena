@@ -10,7 +10,6 @@
 
 Cojo un problema de usuario, lo convierto en producto o lo agentizo.
 
-
 <br/>
 
 <p align="center">
@@ -22,6 +21,12 @@ Cojo un problema de usuario, lo convierto en producto o lo agentizo.
   <a href="https://github.com/4pablospena/Agentic-missioncontrol"><img src="./assets/projects/mission.svg" alt="Agentic-missioncontrol" width="48%" /></a>
   &nbsp;
   <a href="https://github.com/4pablospena/personal-web"><img src="./assets/projects/web.svg" alt="personal-web" width="48%" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/stats/languages.svg" alt="Lenguajes: TypeScript 54%, Vue 40%, Python 3%, JavaScript 3%" width="48%" />
+  &nbsp;
+  <img src="./assets/stats/highlights.svg" alt="Focus: TypeScript y Vue. 94% del código en producto de agentes." width="48%" />
 </p>
 
 <br/>
