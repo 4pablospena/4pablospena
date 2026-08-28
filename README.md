@@ -23,8 +23,8 @@
 
 - 🛠️ **Product Engineer** — del problema de usuario al deploy, sin intermediarios.
 - 🤖 Ahora mismo trasteando con **agentes de IA**, tooling y guardarraíles de seguridad para acciones agénticas.
-- 🌵 Escribo utilidades que me quitan trabajo repetitivo (ej. facturas Excel → PDF).
-- 📚 Aprendiendo en abierto y mejorando el flujo con buenas *cursorrules*.
+- 🌵 Resolviendo flujos de trabajo repetitivos.
+- 📚 En constante aprendizaje.
 
 ---
 
