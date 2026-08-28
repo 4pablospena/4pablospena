@@ -8,9 +8,8 @@
   <a href="https://build-your-agents.vercel.app">build-your-agents</a>
 </p>
 
-Cojo un problema de usuario, lo convierto en producto y lo dejo en producción.
+Cojo un problema de usuario, lo convierto en producto o lo agentizo.
 
-Ahora: <a href="https://github.com/4pablospena/agentic-action-firewall"><strong>agentic-action-firewall</strong></a>. Intercepta, clasifica y autoriza cada acción del agente antes de que toque el mundo real.
 
 <br/>
 
