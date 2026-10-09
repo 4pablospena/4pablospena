@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="96" viewBox="0 0 480 96" role="img" aria-labelledby="title desc">
   <title id="title">personal-web</title>
-  <desc id="desc">PORTFOLIO PERSONAL</desc>
-  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"><rect x="1" y="1" width="958" height="158" rx="16" fill="#101724" stroke="#303b51"/>
-  <rect x="1" y="35" width="4" height="90" rx="2" fill="#ffb29e"/>
-  <text x="32" y="47" font-size="14" fill="#ffb29e" font-weight="600" letter-spacing="2">04 / PORTFOLIO PERSONAL</text>
-  <text x="32" y="106" font-size="36" font-weight="650" letter-spacing="-.8" fill="#f4f5fa">personal-web</text>
-  <circle cx="896" cy="80" r="25" fill="#1c2638"/>
-  <path d="M886 90 906 70m-17 0h17v17" fill="none" stroke="#ffb29e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <desc id="desc">Portfolio personal</desc>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect x="1" y="1" width="478" height="94" rx="12" fill="#101724" stroke="#303b51"/>
+    <rect x="1" y="20" width="4" height="56" rx="2" fill="#ffb29e"/>
+    <text x="22" y="34" font-size="11" fill="#ffb29e" font-weight="600" letter-spacing="1.6">04 / PORTFOLIO PERSONAL</text>
+    <text x="22" y="66" font-size="20" font-weight="650" letter-spacing="-.4" fill="#f4f5fa">personal-web</text>
+    <circle cx="444" cy="48" r="16" fill="#1c2638"/>
+    <path d="M438 54 450 42m-11 0h11v11" fill="none" stroke="#ffb29e" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
 </svg>
