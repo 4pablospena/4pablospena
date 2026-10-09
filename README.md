@@ -10,12 +10,6 @@
   <a href="https://github.com/4pablospena?tab=repositories">Repositorios</a>
 </p>
 
-## Del problema al producto
-
-Construyo productos digitales a partir de problemas de usuario. Trabajo con TypeScript, React y Vue, y desarrollo herramientas para configurar agentes de IA, supervisar su actividad y controlar sus acciones.
-
-Me interesa cómo encajan los agentes en un producto: qué pueden hacer, qué límites necesitan y cómo interviene la persona que los utiliza.
-
 ## Proyecto actual · Siarem
 
 <p align="center">
