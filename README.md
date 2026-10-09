@@ -37,40 +37,23 @@ Me interesa cómo encajan los agentes en un producto: qué pueden hacer, qué l�
 
 ## Herramientas
 
-**Producto y frontend**
-
 <p>
-  <img src="./assets/tools/typescript.svg" alt="TypeScript" height="44" />
-  <img src="./assets/tools/javascript.svg" alt="JavaScript" height="44" />
-  <img src="./assets/tools/react.svg" alt="React" height="44" />
-  <img src="./assets/tools/vuedotjs.svg" alt="Vue" height="44" />
-  <img src="./assets/tools/nuxt.svg" alt="Nuxt" height="44" />
-  <img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" height="44" />
-</p>
-
-**Backend y automatización**
-
-<p>
-  <img src="./assets/tools/nodedotjs.svg" alt="Node.js" height="44" />
-  <img src="./assets/tools/python.svg" alt="Python" height="44" />
-  <img src="./assets/tools/cloudflare.svg" alt="Cloudflare" height="44" />
-</p>
-
-**Desarrollo con IA**
-
-<p>
-  <img src="./assets/tools/cursor.svg" alt="Cursor" height="44" />
-  <img src="./assets/tools/claude.svg" alt="Claude" height="44" />
-  <img src="./assets/tools/codex.svg" alt="Codex" height="44" />
-</p>
-
-**Infraestructura y observabilidad**
-
-<p>
-  <img src="./assets/tools/git.svg" alt="Git" height="44" />
-  <img src="./assets/tools/docker.svg" alt="Docker" height="44" />
-  <img src="./assets/tools/argo.svg" alt="Argo CD" height="44" />
-  <img src="./assets/tools/grafana.svg" alt="Grafana" height="44" />
+  <img src="./assets/tools/typescript.svg" alt="TypeScript" height="40" />
+  <img src="./assets/tools/javascript.svg" alt="JavaScript" height="40" />
+  <img src="./assets/tools/react.svg" alt="React" height="40" />
+  <img src="./assets/tools/vuedotjs.svg" alt="Vue" height="40" />
+  <img src="./assets/tools/nuxt.svg" alt="Nuxt" height="40" />
+  <img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+  <img src="./assets/tools/nodedotjs.svg" alt="Node.js" height="40" />
+  <img src="./assets/tools/python.svg" alt="Python" height="40" />
+  <img src="./assets/tools/cloudflare.svg" alt="Cloudflare" height="40" />
+  <img src="./assets/tools/cursor.svg" alt="Cursor" height="40" />
+  <img src="./assets/tools/claude.svg" alt="Claude" height="40" />
+  <img src="./assets/tools/codex.svg" alt="Codex" height="40" />
+  <img src="./assets/tools/git.svg" alt="Git" height="40" />
+  <img src="./assets/tools/docker.svg" alt="Docker" height="40" />
+  <img src="./assets/tools/argo.svg" alt="Argo CD" height="40" />
+  <img src="./assets/tools/grafana.svg" alt="Grafana" height="40" />
 </p>
 
 ---
